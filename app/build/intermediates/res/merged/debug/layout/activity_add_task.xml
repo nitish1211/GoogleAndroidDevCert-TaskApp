@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingStart="@dimen/activity_horizontal_margin"
+    android:paddingEnd="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    tools:context="com.google.developer.taskmaker.AddTaskActivity">
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/text_wrapper_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/text_input_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/task_description"
+            android:singleLine="true"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/switch_priority"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_below="@id/text_wrapper_description"
+        android:text="@string/task_priority"/>
+
+    <TextView
+        android:id="@+id/label_date"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/text_box_height"
+        android:layout_below="@id/switch_priority"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:gravity="center_vertical"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:text="@string/task_date"/>
+
+    <TextView
+        android:id="@+id/text_date"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_box_height"
+        android:freezesText="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@id/label_date"
+        android:layout_alignBaseline="@id/label_date"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:gravity="end"/>
+</RelativeLayout>

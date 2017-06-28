@@ -1,0 +1,7 @@
+#Mon Mar 27 01:33:32 IST 2017
+base.0=/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_524a235702489a7bf8d693f78a1e83cd622855ce
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70b8fb8d45fcf7c839493100107974d3947f69c2/classes.dex
+base.1=/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70b8fb8d45fcf7c839493100107974d3947f69c2
+file.0=/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_524a235702489a7bf8d693f78a1e83cd622855ce/classes.dex

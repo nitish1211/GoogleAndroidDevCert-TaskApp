@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c5b7aee35cbc5c3f3e23295ec07b77e17e04ab9">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70b8fb8d45fcf7c839493100107974d3947f69c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f57915056a918da166ee898737af8e086dd01f51">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_524a235702489a7bf8d693f78a1e83cd622855ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_546aa2f5245689bfa3dedde077ba9b413a6d440c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_9a6a2f2db2a5ea3e10dfc87d54a916566b120b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_51cd234796ba0bbd2e221fe88c93fcbd4a923c36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_f6a7c39ae42f8a5f75a076d00e89ea690b1af2b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_a4fdf4fdefd07b07a18048f2a357e8b76f6d92e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nitish/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_1efbec069dd5bf3ad5286e5074fd33d19f4f9eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_f915f1f48d8ae55e95e269421083fff000377baa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9078293943d0cf69b4111b7c141456b522a463c1">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-preference-v7-25.1.1_ce096d49c23a7bbe9000726aa0e8e76aa530d8a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_276d3a13648b593b0a5a25f560248e4c1e3c8e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_3629ac6aa22de75079d76dec3b21128913163ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_cf0964f5efe3db6b3c9b4141a0f67782838a327f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_3efd6893cd44af41f9c3ba9549b754dc8c46a4d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_48188eaa042814986aa878df74e27eb20fa7588b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_783740265c41a0815cfc32564cbef42e9c3dd0ea/classes.dex" />
+    </item>
+
+</items>

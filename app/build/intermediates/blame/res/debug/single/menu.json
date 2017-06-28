@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/menu/menu_add_task.xml",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/menu/menu_add_task.xml"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/menu/menu_task_detail.xml",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/menu/menu_task_detail.xml"
+    }
+]

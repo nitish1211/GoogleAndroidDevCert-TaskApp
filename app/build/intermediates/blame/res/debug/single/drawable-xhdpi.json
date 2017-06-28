@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_add.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_reminder.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xhdpi/ic_reminder.png"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_priority.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xhdpi/ic_priority.png"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_delete.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_not_priority.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xhdpi/ic_not_priority.png"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_done.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xhdpi/ic_done.png"
+    }
+]

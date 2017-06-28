@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_add.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_delete.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/media/nitish/Nitish/AndroidProjects/Android Test/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_done.png",
+        "source": "/media/nitish/Nitish/AndroidProjects/Android Test/app/src/main/res/drawable-xxxhdpi/ic_done.png"
+    }
+]
